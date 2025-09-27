@@ -1,2 +1,2 @@
-# unifii-playground
-Playing around with Mozilla's Unifii framework
+# uniffi-playground
+Playing around with Mozilla's Uniffi framework
